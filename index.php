@@ -1,7 +1,7 @@
 <?php
-    require_once 'Bicycles.php';
-    require_once 'Cars.php';
-    require_once 'Trucks.php';
+    require_once 'Bicycle.php';
+    require_once 'Car.php';
+    require_once 'Truck.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
